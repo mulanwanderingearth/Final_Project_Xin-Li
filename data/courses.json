@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "Course Name": "Creative Writing",
+      "Code": "ENG101",
+      "Description": "Explore storytelling techniques and improve your writing skills.",
+      "Credits": 3,
+      "Instructor": "Emily Carter"
+    },
+    {
+      "id": 2,
+      "Course Name": "Introduction to Sociology",
+      "Code": "SOC201",
+      "Description": "Understand the structures and dynamics of societies.",
+      "Credits": 3,
+      "Instructor": "Dr. David Green"
+    },
+    {
+      "id": 3,
+      "Course Name": "Modern Art History",
+      "Code": "ART301",
+      "Description": "Analyze and appreciate significant art movements of the 20th century.",
+      "Credits": 3,
+      "Instructor": "Sophia Hernandez"
+    },
+    {
+      "id": 4,
+      "Course Name": "Calculus I",
+      "Code": "MATH101",
+      "Description": "Learn the basics of differentiation and integration.",
+      "Credits": 4,
+      "Instructor": "Dr. James Lee"
+    },
+    {
+      "id": 5,
+      "Course Name": "Introduction to Programming",
+      "Code": "CS101",
+      "Description": "Learn the fundamentals of computer programming using Python.",
+      "Credits": 4,
+      "Instructor": "Dr. Alan Turing"
+    },
+    {
+      "id": 6,
+      "Course Name": "Database Management Systems",
+      "Code": "CS201",
+      "Description": "Understand database concepts, SQL, and database design.",
+      "Credits": 4,
+      "Instructor": "Dr. Grace Hopper"
+    },
+    {
+      "id": 7,
+      "Course Name": "Physics I",
+      "Code": "PHYS101",
+      "Description": "Explore the principles of mechanics, force, and motion.",
+      "Credits": 4,
+      "Instructor": "Dr. Richard Feynman"
+    },
+    {
+      "id": 8,
+      "Course Name": "World History",
+      "Code": "HIST101",
+      "Description": "Study major events and cultures throughout world history.",
+      "Credits": 3,
+      "Instructor": "Dr. Mary Beard"
+    },
+    {
+      "id": 9,
+      "Course Name": "Environmental Science",
+      "Code": "ENV201",
+      "Description": "Discover how ecosystems function and human impact on the environment.",
+      "Credits": 3,
+      "Instructor": "Dr. Jane Goodall"
+    },
+    {
+      "id": 10,
+      "Course Name": "Machine Learning Basics",
+      "Code": "CS301",
+      "Description": "Learn the basics of machine learning and data analysis.",
+      "Credits": 4,
+      "Instructor": "Dr. Andrew Ng"
+    }
+]
